@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    font-family: "Nata Sans", sans-serif;
+}
+body {
+    background-color: #0C6163;
+}
+header {
+    color: white;
+    text-align: center;
+    background-color: #746c70;
+}
