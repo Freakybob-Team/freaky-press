@@ -10,3 +10,18 @@ header {
     text-align: center;
     background-color: #746c70;
 }
+button {
+    border-radius: 15px;
+    border: none;
+}
+#parent_news {
+    margin: 50px auto;
+    width: 0px;
+}
+#latest {
+    color: white;
+    border-radius: 25px;
+    background-color: #746c70;
+    text-align: center;
+    width: 500px;
+}
